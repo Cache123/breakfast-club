@@ -256,14 +256,10 @@ const permutationsOfAString = (string, prefix = '') => {
 
 }
 
-<<<<<<< HEAD
 module.exports = {
   factorial: factorial,
   subSetsOfAString: subSetsOfAString,
   permutationsOfAString: permutationsOfAString
 };
-=======
 
-
->>>>>>> 7818a545321aadfc137257eb83a57528068ba3b7
 
