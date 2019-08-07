@@ -74,20 +74,9 @@ class NotAnArray {
 	      this.storage = nuObj;
 	      return shiftThis;
 
-<<<<<<< HEAD
-=======
-	      //return this.storage;
-
->>>>>>> a8f6bba0937e08342ae257c40921b9a6fbde8468
 	  }
 }
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 module.exports = NotAnArray;
-=======
-=======
->>>>>>> a8f6bba0937e08342ae257c40921b9a6fbde8468
-module.exports = NotAnArray;
->>>>>>> adding my solutions
+
